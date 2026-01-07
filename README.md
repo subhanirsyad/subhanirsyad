@@ -63,7 +63,7 @@ I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, G
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="56" alt="scikit-learn">
     </td>
     <td align="center" width="150"><b>Matplotlib</b><br><br>
-      <img src="https://cdn.simpleicons.org/matplotlib" height="56" alt="Matplotlib">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="56" alt="Matplotlib">
     </td>
   </tr>
   <tr>
