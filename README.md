@@ -30,60 +30,92 @@ I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, G
 
 ## 🧰 Languages & Tools
 
-<h3>Best frameworks and libraries for Machine Learning:</h3>
-
-<table border="1" cellpadding="14" style="border-collapse:collapse;">
+<h3>Languages </h3>
+<table border="1" cellpadding="14" cellspacing="0">
   <tr>
-    <td align="center" width="140"><b>PyTorch</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="56" alt="PyTorch">
+    <td align="center" width="150"><b>Python</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" alt="Python">
     </td>
-    <td align="center" width="140"><b>TensorFlow</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="56" alt="TensorFlow">
+    <td align="center" width="150"><b>R</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="56" alt="R">
     </td>
-    <td align="center" width="140"><b>NumPy</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="56" alt="NumPy">
+    <td align="center" width="150"><b>SQL (MySQL)</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="56" alt="MySQL">
     </td>
-    <td align="center" width="140"><b>Pandas</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="56" alt="Pandas">
-    </td>
-    <td align="center" width="140"><b>Scikit-learn</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="56" alt="Scikit-learn">
-    </td>
-    <td align="center" width="140"><b>Matplotlib</b><br><br>
-      <img src="https://cdn.simpleicons.org/matplotlib" height="56" alt="Matplotlib">
-    </td>
-    <td align="center" width="140"><b>OpenCV</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="56" alt="OpenCV">
+    <td align="center" width="150"><b>JavaScript</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" alt="JavaScript">
     </td>
   </tr>
 </table>
 
 <br>
 
-<h3>My tools for Data Manipulation:</h3>
-
-<table border="1" cellpadding="14" style="border-collapse:collapse;">
+<h3>Machine Learning & Data Libraries</h3>
+<table border="1" cellpadding="14" cellspacing="0">
   <tr>
-    <td align="center" width="140"><b>Conda</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="56" alt="Conda/Anaconda">
+    <td align="center" width="150"><b>pandas</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="56" alt="pandas">
     </td>
-    <td align="center" width="140"><b>Jupyter</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="56" alt="Jupyter">
+    <td align="center" width="150"><b>NumPy</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="56" alt="NumPy">
     </td>
-    <td align="center" width="140"><b>R</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="56" alt="R">
+    <td align="center" width="150"><b>scikit-learn</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="56" alt="scikit-learn">
     </td>
-    <td align="center" width="140"><b>MySQL</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="56" alt="MySQL">
+    <td align="center" width="150"><b>Matplotlib</b><br><br>
+      <img src="https://cdn.simpleicons.org/matplotlib" height="56" alt="Matplotlib">
     </td>
-    <td align="center" width="160"><b>Google Analytics</b><br><br>
-      <img src="https://cdn.simpleicons.org/googleanalytics" height="56" alt="Google Analytics">
+  </tr>
+  <tr>
+    <td align="center" width="150"><b>Imbalanced-learn<br>(SMOTE)</b><br><br>
+      <img src="https://cdn.simpleicons.org/scikitlearn" height="56" alt="SMOTE / imbalanced-learn">
     </td>
-    <td align="center" width="140"><b>SQLite</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="56" alt="SQLite">
+    <td align="center" width="150"><b>SHAP</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" alt="SHAP">
+    </td>
+    <td align="center" width="150"><b>caret (R)</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="56" alt="caret">
+    </td>
+    <td align="center" width="150"><b>ggplot2 (R)</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="56" alt="ggplot2">
     </td>
   </tr>
 </table>
+
+<br>
+
+<h3>Backend / Database / Productivity</h3>
+<table border="1" cellpadding="14" cellspacing="0">
+  <tr>
+    <td align="center" width="150"><b>Node.js</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="56" alt="Node.js">
+    </td>
+    <td align="center" width="150"><b>Express</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="56" alt="Express">
+    </td>
+    <td align="center" width="150"><b>SQLite</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="56" alt="SQLite">
+    </td>
+    <td align="center" width="150"><b>Jupyter</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="56" alt="Jupyter">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><b>Git</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56" alt="Git">
+    </td>
+    <td align="center" width="150"><b>GitHub</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="56" alt="GitHub">
+    </td>
+    <td align="center" width="150"><b>HTML</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" alt="HTML5">
+    </td>
+    <td align="center" width="150"><b>CSS</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56" alt="CSS3">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
