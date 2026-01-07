@@ -30,29 +30,60 @@ I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, G
 
 ## 🧰 Languages & Tools
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42" alt="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="SQL"/>
-</p>
+<h3>Best frameworks and libraries for Machine Learning:</h3>
 
-### Libraries
-<p>
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-111111?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
-</p>
+<table border="1" cellpadding="14" style="border-collapse:collapse;">
+  <tr>
+    <td align="center" width="140"><b>PyTorch</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="56" alt="PyTorch">
+    </td>
+    <td align="center" width="140"><b>TensorFlow</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="56" alt="TensorFlow">
+    </td>
+    <td align="center" width="140"><b>NumPy</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="56" alt="NumPy">
+    </td>
+    <td align="center" width="140"><b>Pandas</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="56" alt="Pandas">
+    </td>
+    <td align="center" width="140"><b>Scikit-learn</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="56" alt="Scikit-learn">
+    </td>
+    <td align="center" width="140"><b>Matplotlib</b><br><br>
+      <img src="https://cdn.simpleicons.org/matplotlib" height="56" alt="Matplotlib">
+    </td>
+    <td align="center" width="140"><b>OpenCV</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="56" alt="OpenCV">
+    </td>
+  </tr>
+</table>
 
-### Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-</p>
+<br>
+
+<h3>My tools for Data Manipulation:</h3>
+
+<table border="1" cellpadding="14" style="border-collapse:collapse;">
+  <tr>
+    <td align="center" width="140"><b>Conda</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="56" alt="Conda/Anaconda">
+    </td>
+    <td align="center" width="140"><b>Jupyter</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="56" alt="Jupyter">
+    </td>
+    <td align="center" width="140"><b>R</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="56" alt="R">
+    </td>
+    <td align="center" width="140"><b>MySQL</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="56" alt="MySQL">
+    </td>
+    <td align="center" width="160"><b>Google Analytics</b><br><br>
+      <img src="https://cdn.simpleicons.org/googleanalytics" height="56" alt="Google Analytics">
+    </td>
+    <td align="center" width="140"><b>SQLite</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="56" alt="SQLite">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,7 +99,6 @@ I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, G
 ---
 
 ## 🚀 Projects (Grid)
-> Ganti `LINK_REPO_...` dengan link repo project kamu.
 
 <table>
   <tr>
@@ -76,13 +106,13 @@ I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, G
       <h3>🔐 UEBA Anomaly Detection</h3>
       <p>Cloud data security risk analysis using <b>Isolation Forest</b> + interpretability with <b>Tree SHAP</b>.</p>
       <p><b>Tech:</b> Python, scikit-learn, SHAP</p>
-      <p><a href="LINK_REPO_UEBA">Repo</a></p>
+      <p><a href="https://github.com/subhanirsyad/anomaly-detection">Repo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>👶 Nutritional Status Classification</h3>
       <p>Random Forest vs <b>ANN (MLPClassifier)</b>, imbalance handling with <b>SMOTE</b>, tuned via <b>GridSearchCV</b> (99% accuracy).</p>
       <p><b>Tech:</b> Python, scikit-learn</p>
-      <p><a href="LINK_REPO_NUTRITION">Repo</a></p>
+      <p><a href="https://github.com/subhanirsyad/nutritional-status-classification">Repo</a></p>
     </td>
   </tr>
   <tr>
@@ -90,13 +120,13 @@ I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, G
       <h3>🏠 House Price Regression (R)</h3>
       <p>Model selection (stepwise + ANOVA), assumption checks (DW/BP/Shapiro/VIF), validated with CV.</p>
       <p><b>Tech:</b> R</p>
-      <p><a href="LINK_REPO_HOUSE">Repo</a></p>
+      <p><a href="https://github.com/subhanirsyad/house-price-regression">Repo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🥗 SafeBites (SQL)</h3>
       <p>SQL relational DB + allergen keyword filtering + core UI features (landing, table, search, contact).</p>
       <p><b>Tech:</b> SQL</p>
-      <p><a href="LINK_REPO_SAFEBITES">Repo</a></p>
+      <p><a href="https://github.com/subhanirsyad/safebites-sql">Repo</a></p>
     </td>
   </tr>
 </table>
