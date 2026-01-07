@@ -167,7 +167,3 @@ I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, G
 ## 🏅 Achievement
 - Mastering AI Bootcamp *(2024)*
 
----
-
-## 📊 GitHub Stats (optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhanirsyad&show_icons=true)
