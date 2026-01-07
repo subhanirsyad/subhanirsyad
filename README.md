@@ -67,17 +67,11 @@ I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, G
     </td>
   </tr>
   <tr>
-    <td align="center" width="150"><b>Imbalanced-learn<br>(SMOTE)</b><br><br>
+    <td align="center" width="150"><b>scikit-learn<br></b><br><br>
       <img src="https://cdn.simpleicons.org/scikitlearn" height="56" alt="SMOTE / imbalanced-learn">
     </td>
     <td align="center" width="150"><b>SHAP</b><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" alt="SHAP">
-    </td>
-    <td align="center" width="150"><b>caret (R)</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="56" alt="caret">
-    </td>
-    <td align="center" width="150"><b>ggplot2 (R)</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="56" alt="ggplot2">
     </td>
   </tr>
 </table>
