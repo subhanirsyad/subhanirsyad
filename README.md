@@ -1,5 +1,8 @@
+<h1 align="center">Subhan Irsyaduddien Alhaq</h1>
+
 <p align="center">
-  <img src="./header.svg" alt="Header" />
+  Mathematics student at <b>Universitas Indonesia</b> with a strong interest in <b>Data Science</b> and <b>Analytics</b>.
+  Experienced working with data using <b>Python</b> and <b>SQL</b>—from cleaning and structuring to modeling—focused on analytical thinking and reproducible results.
 </p>
 
 <p align="center">
@@ -17,12 +20,12 @@
 ---
 
 ## 👋 About Me
-I'm **Subhan Irsyaduddien Alhaq**, a Mathematics student at **Universitas Indonesia** with a strong interest in **Data Science** and **Analytics**.  
-I work with **Python** and **SQL** for data cleaning, feature engineering, modeling, and delivering reproducible analysis.
+I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, GPA **3.51/4.00**) with interests in:
+- Machine Learning & Data Analytics
+- Security analytics (anomaly detection / UEBA)
+- Data engineering with SQL
 
-- 🎓 B.Sc. Mathematics — Universitas Indonesia (Expected **Aug 2027**) | GPA **3.51/4.00**
-- 📍 Pasar Minggu, South Jakarta
-- 🎯 Interests: ML, data analytics, security analytics, and data engineering
+📍 Pasar Minggu, South Jakarta
 
 ---
 
@@ -55,56 +58,46 @@ I work with **Python** and **SQL** for data cleaning, feature engineering, model
 ---
 
 ## 💼 Experience
-- **Mathematics Tutor — Tutorin Math** *(May 2025 – Present)*  
-  Designed and delivered **20+** learning modules (Calculus, TKA, CPNS TIU) and guided students with structured feedback.
+**Mathematics Tutor — Tutorin Math** *(May 2025 – Present)*
+- Designed and delivered **20+** learning modules (Calculus, TKA, CPNS TIU).
+- Provided structured explanations, guided practice, and targeted feedback.
 
-- **Teaching Assistant — Universitas Indonesia (Dept. of Mathematics)** *(Sep 2025 – Dec 2025)*  
-  Supported learning for **40+** students, graded/reviewed assignments, and aligned rubrics with the TA team.
+**Teaching Assistant — Universitas Indonesia (Dept. of Mathematics)** *(Sep 2025 – Dec 2025)*
+- Supported learning activities for **40+** students.
+- Graded/reviewed assignments and aligned rubrics with the TA team.
 
 ---
 
-## 🚀 Projects (dipisah model “card/grid”)
+## 🚀 Projects (Grid)
+> Ganti `LINK_REPO_...` dengan link repo project kamu.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🔐 UEBA Anomaly Detection</h3>
-      <p><b>Cloud Data Security Risk Analysis</b> — modeling user behavior from activity logs using <b>Isolation Forest</b> and interpretation with <b>Tree SHAP</b>.</p>
+      <p>Cloud data security risk analysis using <b>Isolation Forest</b> + interpretability with <b>Tree SHAP</b>.</p>
       <p><b>Tech:</b> Python, scikit-learn, SHAP</p>
-      <p>
-        <a href="LINK_REPO_UEBA">Repo</a> ·
-        <a href="LINK_REPORT_UEBA">Report</a>
-      </p>
+      <p><a href="LINK_REPO_UEBA">Repo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>👶 Nutritional Status Classification</h3>
-      <p>Compared <b>Random Forest</b> vs <b>ANN (MLPClassifier)</b>, handled imbalance with <b>SMOTE</b>, tuned via <b>GridSearchCV</b>, achieved <b>99% accuracy</b>.</p>
+      <p>Random Forest vs <b>ANN (MLPClassifier)</b>, imbalance handling with <b>SMOTE</b>, tuned via <b>GridSearchCV</b> (99% accuracy).</p>
       <p><b>Tech:</b> Python, scikit-learn</p>
-      <p>
-        <a href="LINK_REPO_NUTRITION">Repo</a> ·
-        <a href="LINK_NOTEBOOK_NUTRITION">Notebook</a>
-      </p>
+      <p><a href="LINK_REPO_NUTRITION">Repo</a></p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>🏠 House Price Regression (R)</h3>
-      <p>Multiple linear regression with model selection (stepwise + ANOVA), assumption checks (DW, BP, Shapiro–Wilk, VIF), and cross-validation.</p>
+      <p>Model selection (stepwise + ANOVA), assumption checks (DW/BP/Shapiro/VIF), validated with CV.</p>
       <p><b>Tech:</b> R</p>
-      <p>
-        <a href="LINK_REPO_HOUSE">Repo</a> ·
-        <a href="LINK_REPORT_HOUSE">Report</a>
-      </p>
+      <p><a href="LINK_REPO_HOUSE">Repo</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🥗 SafeBites (SQL)</h3>
-      <p>Allergy-safe food finder: built SQL relational DB, allergen keyword filtering, and core UI features (landing, table, search, contact).</p>
+      <p>SQL relational DB + allergen keyword filtering + core UI features (landing, table, search, contact).</p>
       <p><b>Tech:</b> SQL</p>
-      <p>
-        <a href="LINK_REPO_SAFEBITES">Repo</a> ·
-        <a href="LINK_DEMO_SAFEBITES">Demo</a>
-      </p>
+      <p><a href="LINK_REPO_SAFEBITES">Repo</a></p>
     </td>
   </tr>
 </table>
@@ -112,10 +105,15 @@ I work with **Python** and **SQL** for data cleaning, feature engineering, model
 ---
 
 ## 🏫 Organizational Experience
-- **UI Science Olympiad** — Competition Coordinator *(Jun 2024 – Nov 2024)*
-- **LOGIKA UI** — Steering Committee *(Jul 2025 – Dec 2025)*
-- **Ksatria MIPA** — Treasurer Controller *(Jul 2024 – Nov 2024)*
-- **HMD Matematika UI** — Head of Academic Division *(Apr 2025 – Present)*
+- UI Science Olympiad — Competition Coordinator *(Jun 2024 – Nov 2024)*
+- LOGIKA UI — Steering Committee *(Jul 2025 – Dec 2025)*
+- Ksatria MIPA — Treasurer Controller *(Jul 2024 – Nov 2024)*
+- HMD Matematika UI — Head of Academic Division *(Apr 2025 – Present)*
+
+---
+
+## 🏅 Achievement
+- Mastering AI Bootcamp *(2024)*
 
 ---
 
