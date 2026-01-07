@@ -75,14 +75,11 @@ I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, G
 
 <br>
 
-<h3>Backend / Database / Productivity</h3>
+<h3>Database</h3>
 <table border="1" cellpadding="14" cellspacing="0">
   <tr>
     <td align="center" width="150"><b>Node.js</b><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="56" alt="Node.js">
-    </td>
-    <td align="center" width="150"><b>Express</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="56" alt="Express">
     </td>
     <td align="center" width="150"><b>SQLite</b><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="56" alt="SQLite">
@@ -92,12 +89,6 @@ I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, G
     </td>
   </tr>
   <tr>
-    <td align="center" width="150"><b>Git</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56" alt="Git">
-    </td>
-    <td align="center" width="150"><b>GitHub</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="56" alt="GitHub">
-    </td>
     <td align="center" width="150"><b>HTML</b><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" alt="HTML5">
     </td>
