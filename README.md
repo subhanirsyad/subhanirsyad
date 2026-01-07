@@ -22,8 +22,7 @@
 ## 👋 About Me
 I'm a Mathematics student at **Universitas Indonesia** (Expected **Aug 2027**, GPA **3.51/4.00**) with interests in:
 - Machine Learning & Data Analytics
-- Security analytics (anomaly detection / UEBA)
-- Data engineering with SQL
+- Data engineering
 
 📍 Pasar Minggu, South Jakarta
 
